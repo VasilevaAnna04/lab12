@@ -5,6 +5,7 @@
 int
 main (void)
 {
+  printf("Добро пожаловать в калькулятор!");
   float Numeral;
   char Operation[4];
   float Result;
